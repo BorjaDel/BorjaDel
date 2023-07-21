@@ -1,7 +1,7 @@
 # 🧬 Sobre mí
 
 Apasionado del mundo de la tecnología aunque comenzando mi andadura en él. Actualmente me encuentro desarrollando mis conocimientos y habilidades, aplicándolos en proyectos personales en cuanto tengo oportunidad.
-Échale un vistazo a mis proyectos y, si te parecen interesantes, de la a estrellita.
+Échale un vistazo a mis proyectos y, si te parecen interesantes, dale a la estrellita.
 
 
 # 💻 Tech Stack:
