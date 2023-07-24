@@ -1,7 +1,6 @@
 # 🧬 Sobre mí
 
-Apasionado del mundo de la tecnología aunque comenzando mi andadura en él. Actualmente me encuentro desarrollando mis conocimientos y habilidades, aplicándolos en proyectos personales en cuanto tengo oportunidad.
-Échale un vistazo a mis proyectos y, si te parecen interesantes, dale a la estrellita.
+Asesor, analista de datos, de momento... biólogo. En proceso de cambio, de momento aplico lo que voy aprendiendo en mis propios proyectos. Siempre abierto a nuevos proyectos y oportunidades.
 
 
 # 💻 Tech Stack:
